@@ -7,10 +7,10 @@ info:
   description: "An exclusive Pterodactyl theme inspired by neon and fantasy."
   flags: ""
   version: "1.0"
-  target: "beta-2024-12"
-  author: ""
+  target: "alpha-L53"
+  author: "Ivan-Dz"
   icon: "assets/logo.jpg"
-  website: "https://github.com/YourRepoLink"
+  website: "https://github.com/Ivan-Dz/Vaporwave-Dream"
 
 admin:
   view: "admin/view.blade.php"
