@@ -1,0 +1,30 @@
+# Thank you for developing with Blueprint.
+# For documentation about conf.yml, refer to ptero.shop/dev/conf.
+
+info:
+  name: "Vaporwave Dream"
+  identifier: "vaporwavedream"
+  description: "An exclusive Pterodactyl theme inspired by neon and fantasy."
+  flags: ""
+  version: "1.0"
+  target: "beta-2024-12"
+  author: ""
+  icon: "assets/logo.jpg"
+  website: "https://github.com/YourRepoLink"
+
+admin:
+  view: "admin/view.blade.php"
+  controller: ""
+  css: ""
+  wrapper: ""
+
+dashboard:
+  wrapper: ""
+  css: "client/client.style.css"
+
+data:
+  directory: ""
+  public: "public"
+
+database:
+  migrations: ""
